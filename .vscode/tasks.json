@@ -8,13 +8,13 @@
     "tasks": [
         {
             "taskName": "test",
-            "args": [ "${workspaceRoot}\\leap\\project.json" ],
+            "args": [ "${workspaceRoot}\\gigasecond\\project.json" ],
             "isBuildCommand": false,
             "problemMatcher": "$msCompile"
         },
         {
             "taskName": "build",
-            "args": [ "${workspaceRoot}\\leap\\project.json" ],
+            "args": [ "${workspaceRoot}\\gigasecond\\project.json" ],
             "isBuildCommand": true,
             "showOutput": "silent",
             "problemMatcher": "$msCompile"
