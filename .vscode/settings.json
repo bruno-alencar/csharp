@@ -1,0 +1,27 @@
+{
+    "newLine": {
+        "brace": true
+    },
+    "space":{
+        "comma":{
+            "before": 0,
+            "after": 1
+        },
+        "parenthesis":{
+            "open":{
+                "before":{
+                    "foreach": 1,
+                    "if": 1
+                }
+            }
+        },
+        "brace":{
+            "open":{
+                "before":{
+                    "for": 1,
+                    "if": 1
+                }
+            }
+        }
+    }
+}

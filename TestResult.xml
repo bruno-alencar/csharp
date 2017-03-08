@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="0" testcasecount="1" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1" result="Passed" portable-engine-version="3.3.0.0" start-time="2017-03-08 15:48:59Z" end-time="2017-03-08 15:49:00Z" duration="0.179000">
+  <test-run id="0" testcasecount="1" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1" result="Passed" portable-engine-version="3.3.0.0" start-time="2017-03-08 15:48:59Z" end-time="2017-03-08 15:49:00Z" duration="0.084002">
+    <test-suite type="Assembly" id="1002" name="hello-world.dll" fullname="c:/Works/exercism/csharp/hello-world/bin/Debug/netcoreapp1.1/hello-world.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-03-08 15:48:59Z" end-time="2017-03-08 15:49:00Z" duration="0.058430" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+      <environment framework-version="3.6.0.0" clr-version=".NET Core 4.6.25009.03" os-version="Microsoft Windows 10.0.14393 " cwd="c:\Works\exercism\csharp" machine-name="DESKTOP-H6MPQG3" culture="pt-BR" uiculture="en-US" os-architecture="X64" />
+      <settings>
+        <setting name="WorkDirectory" value="c:\Works\exercism\csharp" />
+      </settings>
+      <test-suite type="TestFixture" id="1000" name="HelloWorldTest" fullname="HelloWorldTest" classname="HelloWorldTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-03-08 15:48:59Z" end-time="2017-03-08 15:49:00Z" duration="0.047387" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-case id="1001" name="Say_hi" fullname="HelloWorldTest.Say_hi" methodname="Say_hi" classname="HelloWorldTest" runstate="Runnable" seed="374211430" result="Passed" start-time="2017-03-08 15:49:00Z" end-time="2017-03-08 15:49:00Z" duration="0.012739" asserts="1" />
+      </test-suite>
+    </test-suite>
+  </test-run>
+</test-run>

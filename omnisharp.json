@@ -1,0 +1,17 @@
+// omnisharp.json
+{
+	"FormattingOptions": 
+	{
+		"NewLinesForBracesInLambdaExpressionBody": true,
+		"NewLinesForBracesInAnonymousMethods": true,
+		"NewLinesForBracesInAnonymousTypes": true,
+		"NewLinesForBracesInControlBlocks": true,
+		"NewLinesForBracesInTypes": true,
+		"NewLinesForBracesInMethods": true,
+                "NewLinesForBracesInProperties": true,
+		"NewLineForElse": true,
+                "NewLinesForBracesInAccessors": true,
+		"NewLineForCatch": true,
+		"NewLineForFinally": true
+	}
+}
