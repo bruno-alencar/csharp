@@ -8,13 +8,13 @@
     "tasks": [
         {
             "taskName": "test",
-            "args": [ "${workspaceRoot}\\raindrops\\project.json" ],
+            "args": [ "${workspaceRoot}\\nucleotide-count\\project.json" ],
             "isBuildCommand": false,
             "problemMatcher": "$msCompile"
         },
         {
             "taskName": "build",
-            "args": [ "${workspaceRoot}\\raindrops\\project.json" ],
+            "args": [ "${workspaceRoot}\\nucleotide-count\\project.json" ],
             "isBuildCommand": true,
             "showOutput": "silent",
             "problemMatcher": "$msCompile"
