@@ -8,13 +8,13 @@
     "tasks": [
         {
             "taskName": "test",
-            "args": [ "${workspaceRoot}\\strain\\project.json" ],
+            "args": [ "${workspaceRoot}\\scrabble-score\\project.json" ],
             "isBuildCommand": false,
             "problemMatcher": "$msCompile"
         },
         {
             "taskName": "build",
-            "args": [ "${workspaceRoot}\\strain\\project.json" ],
+            "args": [ "${workspaceRoot}\\scrabble-score\\project.json" ],
             "isBuildCommand": true,
             "showOutput": "silent",
             "problemMatcher": "$msCompile"
