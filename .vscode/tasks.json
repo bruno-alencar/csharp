@@ -8,13 +8,13 @@
     "tasks": [
         {
             "taskName": "test",
-            "args": [ "${workspaceRoot}\\kindergarten-garden\\project.json" ],
+            "args": [ "${workspaceRoot}\\protein-translation\\project.json" ],
             "isBuildCommand": false,
             "problemMatcher": "$msCompile"
         },
         {
             "taskName": "build",
-            "args": [ "${workspaceRoot}\\kindergarten-garden\\project.json" ],
+            "args": [ "${workspaceRoot}\\protein-translation\\project.json" ],
             "isBuildCommand": true,
             "showOutput": "silent",
             "problemMatcher": "$msCompile"
