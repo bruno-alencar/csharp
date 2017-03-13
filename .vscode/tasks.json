@@ -8,13 +8,13 @@
     "tasks": [
         {
             "taskName": "test",
-            "args": [ "${workspaceRoot}\\error-handling\\project.json" ],
+            "args": [ "${workspaceRoot}\\kindergarten-garden\\project.json" ],
             "isBuildCommand": false,
             "problemMatcher": "$msCompile"
         },
         {
             "taskName": "build",
-            "args": [ "${workspaceRoot}\\error-handling\\project.json" ],
+            "args": [ "${workspaceRoot}\\kindergarten-garden\\project.json" ],
             "isBuildCommand": true,
             "showOutput": "silent",
             "problemMatcher": "$msCompile"
