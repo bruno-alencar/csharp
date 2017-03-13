@@ -8,13 +8,13 @@
     "tasks": [
         {
             "taskName": "test",
-            "args": [ "${workspaceRoot}\\protein-translation\\project.json" ],
+            "args": [ "${workspaceRoot}\\perfect-numbers\\project.json" ],
             "isBuildCommand": false,
             "problemMatcher": "$msCompile"
         },
         {
             "taskName": "build",
-            "args": [ "${workspaceRoot}\\protein-translation\\project.json" ],
+            "args": [ "${workspaceRoot}\\perfect-numbers\\project.json" ],
             "isBuildCommand": true,
             "showOutput": "silent",
             "problemMatcher": "$msCompile"
